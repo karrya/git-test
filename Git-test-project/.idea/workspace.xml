@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c45d5ed0-febe-4ce4-a058-eed51cb3b99d" name="Default Changelist" comment="本次修改增加test方法">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592815942108</updated>
       <workItem from="1592815954402" duration="2183000" />
+      <workItem from="1592819322799" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="本地工程添加到Git">
       <created>1592817358800</created>
@@ -121,6 +122,17 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
